@@ -89,15 +89,17 @@ pnpm start
 
 ## 📸 Giao diện ứng dụng
 
+## Screenshots
+
 ### 1. Đăng nhập & Đăng ký
-![Giao diện đăng nhập và đăng ký](docs/ảnh/giao%20diện%20đăng%20nhập%20và%20đăng%20ký.png)
+![Đăng nhập và đăng ký](docs/ảnh%20/giao%20diện%20đăng%20nhập%20và%20đăng%20ký.png)
 
 Trang xác thực người dùng với 2 tabs:
 - **Đăng nhập:** Username + Password
 - **Đăng ký:** Username (3-50 ký tự) + Email + Password (min 6 ký tự)
 
 ### 2. Dashboard
-![Giao diện dashboard](docs/ảnh/giao%20diện%20dashboard.png)
+![Giao diện dashboard](docs/ảnh%20/giao%20diện%20dashboard.png)
 
 Trang chính hiển thị:
 - Thống kê điểm số và lượt chơi với progress bars
@@ -107,7 +109,7 @@ Trang chính hiển thị:
 - Thông tin tài khoản chi tiết
 
 ### 3. Giao diện Game
-![Giao diện game](docs/ảnh/giao%20diện%20game.png)
+![Giao diện game](docs/ảnh%20/giao%20diện%20game.png)
 
 Màn hình chơi game:
 - Chọn số từ 1-5
@@ -117,7 +119,7 @@ Màn hình chơi game:
 - Auto-refresh user data sau mỗi lượt chơi
 
 ### 4. Lịch sử chơi game
-![Lịch sử chơi game](docs/ảnh/lịch%20sử%20chơi%20game.png)
+![Lịch sử chơi game](docs/ảnh%20/lịch%20sử%20chơi%20game.png)
 
 Theo dõi lịch sử:
 - Danh sách các lượt chơi (mới nhất trước)
@@ -127,7 +129,7 @@ Theo dõi lịch sử:
 - Thống kê tổng quan (Tổng lượt, Thắng, Thua, Tỉ lệ thắng)
 
 ### 5. Bảng xếp hạng
-![Bảng xếp hạng](docs/ảnh/bảng%20xếp%20hạng.png)
+![Bảng xếp hạng](docs/ảnh%20/bảng%20xếp%20hạng%20.png)
 
 Leaderboard top 100:
 - Top 3 podium với Crown/Medal/Award icons
@@ -137,14 +139,14 @@ Leaderboard top 100:
 - Auto-refresh mỗi 5 phút
 
 ### 6. Mua thêm lượt chơi
-![Mua thêm điểm](docs/ảnh/mua%20thêm%20điểm.png)
+![Mua thêm điểm](docs/ảnh%20/mua%20thêm%20điểm%20.png)
 
 Cửa hàng với 2 phương thức:
 - **Mua trực tiếp:** 4 gói ($0.40 - $4.00), không thời hạn
 - **Stripe Payment:** 3 gói subscription (Monthly $9.99, Quarterly $24.99, Yearly $89.99)
 
 ### 7. Lịch sử giao dịch
-![Lịch sử giao dịch](docs/ảnh/lịch%20sử%20giao%20dịch.png)
+![Lịch sử giao dịch](docs/ảnh%20/lịch%20sử%20giao%20dịch.png)
 
 Quản lý giao dịch:
 - Lịch sử mua lượt qua Direct và Stripe
